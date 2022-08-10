@@ -39,7 +39,7 @@ namespace Shopping.API.Data
                     Name = "Tesla Model X",
                     Description = "The Tesla Model X is a battery electric mid-size luxury crossover produced by Tesla, Inc. since 2015. ",
                     ImageFile = "product-1.png",
-                    Price = 40.000M,
+                    Price = 40.00M,
                     Category = "Hybrid"
                 },
             new Product()
@@ -47,7 +47,7 @@ namespace Shopping.API.Data
                     Name = "Audi Q8",
                     Description = "The Audi Q8 is a mid-size luxury crossover SUV coupé made by Audi that was launched in 2018.",
                     ImageFile = "product-2.png",
-                    Price = 84.000M,
+                    Price = 84.00M,
                     Category = "Diesel"
                 },
             new Product()
@@ -55,7 +55,7 @@ namespace Shopping.API.Data
                     Name = "Mercedes-Benz GLA",
                     Description = "The Mercedes-Benz GLA is a subcompact luxury crossover SUV manufactured and marketed by Mercedes-Benz over two generations.",
                     ImageFile = "product-3.png",
-                    Price = 75.000M,
+                    Price = 75.00M,
                     Category = "Diesel"
                 },
             new Product()
@@ -63,7 +63,7 @@ namespace Shopping.API.Data
                     Name = "Fiat 500",
                     Description = "The Fiat 500 is a rear-engined, four-seat, small city car that was manufactured and marketed by Fiat Automobiles from 1957 until 1975 over a single generation in two-door saloon and two-door station wagon bodystyles.",
                     ImageFile = "product-4.png",
-                    Price = 22.000M,
+                    Price = 22.00M,
                     Category = "Petrol"
                 },
             new Product()
@@ -79,11 +79,11 @@ namespace Shopping.API.Data
                     Name = "Jeep Compass",
                     Description = "The Jeep Compass is a compact crossover SUV introduced for the 2007 model year,and is now in its second generation. ",
                     ImageFile = "product-6.png",
-                    Price = 44.000M,
+                    Price = 44.00M,
                     Category = "Hybrid"
                 }
 
-        };
+            };
         }
     }
 }
